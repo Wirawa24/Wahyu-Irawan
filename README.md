@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wirawa24
 - 👀 I’m interested in . front end.
 - 🌱 I’m currently learning .html,css,js..
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on . Instagram..
 - 📫 How to reach me . iwahyu23@gmail.com..
 
 <!---
